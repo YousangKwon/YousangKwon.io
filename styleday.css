@@ -28,6 +28,11 @@ body{
     display: flex;
     justify-content: space-around;
 }
+.tab-content img {
+    width: 100%;
+    
+
+}
 .bottom{
     width: 100%;
     background-color: transparent;
